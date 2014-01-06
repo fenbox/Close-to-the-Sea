@@ -1,11 +1,10 @@
-Close to the Sea
+# Close to the Sea
 
 A Sublime Color Scheme
 
-![screenshot](http://github.com/s2k/Close-to-the-Sea/raw/master/close-to-the-sea-colour-example.png)
+![screenshot](http://i.imgur.com/aP5xgT1.png)
 
-See http://wiki.macromates.com/Themes/UserSubmittedThemes how to install a new colour scheme on your Mac.
-
+Forked from https://github.com/s2k/Close-to-the-Sea
 
 License: 
 
